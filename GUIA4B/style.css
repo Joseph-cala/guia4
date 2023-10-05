@@ -1,0 +1,36 @@
+
+.caja{
+    width: 150px;
+    height: 150px;
+    border-radius: 1cm;
+    background-color: aqua;
+    display: inline-block;
+    margin: 10px;
+    border: dashed;
+    
+}
+
+.caja01{
+    height: 150px;
+    width: 520px;
+    background-color: rgb(76, 0, 255);
+    border-radius: 1cm;
+    position: relative;
+    left: 10px;
+    border: dashed;
+    
+}
+.caja001{
+    width: 150px;
+    height: 150px;
+   
+    background-color: green;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 1cm;
+    border: dashed;
+    
+}
+
+
+

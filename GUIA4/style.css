@@ -1,0 +1,30 @@
+.caja{
+width: 150px;
+height: 150px;
+border-radius: 1px;
+display: inline-block;
+
+
+}
+#caja01{
+background-color: #4499EE;
+margin: 30px;
+Box-shadow:3px 1px 8px 1px;
+
+}
+#caja02{
+background-color: #EE4499;
+margin: 30px;
+Box-shadow:3px 1px 8px 1px;
+}
+
+#caja03{
+background-color: #9944EE;
+margin: 30px;
+Box-shadow:3px 1px 8px 1px;
+}
+#caja04{
+   background-color: #EE9944; 
+   margin: 30px;
+   Box-shadow:3px 1px 8px 1px;
+}
